@@ -1,7 +1,5 @@
 # Hi, I'm Abhijeet 👋
 🎓 Engineering student at MIT Manipal
-
-![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=abhijeet-chandra)
 ![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=abhijeet-chandra&leetcode=neela_billa)
 <!--
 **Abhijeet-Chandra/Abhijeet-Chandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
